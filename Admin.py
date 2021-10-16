@@ -1,3 +1,5 @@
+
+#https://github.com/chandrikadeb7/Face-Mask-Detection   ----------   for face-mask_detection model
 import csv
 import smtplib
 from email.mime.multipart import MIMEMultipart
